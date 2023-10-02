@@ -32,4 +32,4 @@ sudo apt-get update -y &&
 sudo apt-get install nodejs -y &&
 
 # Install development tools
-sudo apt install build-essential -y &&
+sudo apt install build-essential -y
